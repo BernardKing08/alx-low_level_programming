@@ -28,8 +28,5 @@ void times_table(void)
 			 * place the first digit if its two numbers
 			*/
 			if (prod <= 9)
-				_putcr
-		}
-	}
-}
+				_putcr}
 		
